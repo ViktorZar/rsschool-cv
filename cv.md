@@ -18,8 +18,32 @@ Six months ago I tried to write code and I liked it. I really want to master the
 * Basic JS
 
 ### Code samples:
+`                   <div class="user">
+                      <div class="dropdown">
+                          <p class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              John Doe
+                          </p>
+                          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                              <a class="dropdown-item" href="#">Action</a>
+                              <a class="dropdown-item" href="#">Another action</a>
+                              <a class="dropdown-item" href="#">Something else here</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          <section class="content-block">
+            <h2>Мои исполнители</h2>
+            <div class="responsive">
+              <div>
+                <img src="img/item1.jpg" class="rounded-circle" alt="">
+                <a href="list.html">Nederlands hits</a>
+                <p>20000 подписчиков</p>
+              </div> `
+
 
 ### Experience:
+I have’t experience in commercial development. But I did exercises from online course:
+* ##### [HTMLAcademy](https://htmlacademy.ru/profile/id1471097)
 
 ### Education
 
