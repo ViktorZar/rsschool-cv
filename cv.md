@@ -46,5 +46,8 @@ I have’t experience in commercial development. But I did exercises from online
 * ##### [HTMLAcademy](https://htmlacademy.ru/profile/id1471097)
 
 ### Education
+* 2006 - 2011: studies at the university
+* 2011 and so far: self-study and development at work
 
 ### English 
+A2 (Pre-intermediate)
